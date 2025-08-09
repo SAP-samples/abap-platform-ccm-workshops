@@ -73,11 +73,6 @@ Before you start, have a look at the technical information you received on the s
 ### Summary & Next Exercise
 [^Top of page](#)
 
-#### Summary
-- Lorem Ipsum
-- Lorem Ipsum
-- Lorem Ipsum
-- Lorem Ipsum
 
 #### Next Exercise
 Now you can continue with the next exercise - **[Exercise 1 - ABAP Call Monitor and Usage Data](../ex1/README1.md)**.
