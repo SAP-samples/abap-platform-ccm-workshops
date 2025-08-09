@@ -13,7 +13,7 @@ This repository contains the material for **Custom Code Adaptation for SAP S/4HA
 
 
 **Table of Content**
-- [CCM100 - SAP Custom Code Adaptation for SAP S/4HANA](#ccm100---sap-custom-code-adaptation-for-sap-s4hana)
+- [SAP Custom Code Adaptation for SAP S/4HANA](#sap-custom-code-adaptation-for-sap-s4hana)
   - [Description](#description)
   - [Motivation](#motivation)
   - [Overview of the Conversion Process](#overview-of-the-conversion-process)
@@ -136,6 +136,7 @@ The exercises in the document are designed to guide you through the process of a
 6. **Adapt Custom Code:** Apply ATC findings to fix broken custom programs post-conversion, using SAP Notes and quick fixes.
 7. **ABAPGit:** Migrate existing code to the SAP Cloud Platform ABAP Environment using Git-based workflows.
 8. **Develop a Fiori App in Steampunk:** Create a Fiori application using modern ABAP and SAPUI5 technologies in the cloud-based Steampunk environment.
+9. **Modernize classic extensions to clean core in SAP Cloud ERP :** Modernize classic extensions to clean core in SAP Cloud ERP 
 
 ### 🛠Exercise Details
 | Exercises |  |
@@ -149,6 +150,7 @@ The exercises in the document are designed to guide you through the process of a
 | [Exercise 6 - Adapt your Custom Code](exercises/ex6/README6.md) |  |
 | [Exercise 7 - ABAPGIT - Migrate existing Code to the SAP BTP ABAP Environment (Steampunk)](exercises/ex7/README7.md) | |
 | [Exercise 8 - Develop a Fiori App in the SAP BTP ABAP Environment (Steampunk)](exercises/ex8/README8.md) |  |
+| [Exercise 9 - Modernize classic extensions to clean core in SAP Cloud ERP ](exercises/ex9/README9.md) |  |
 
 
 ## 📤Solution Package

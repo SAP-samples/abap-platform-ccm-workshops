@@ -1,14 +1,13 @@
 
-## Exercise 9 - Develop a Fiori App in the SAP BTP ABAP Environment (Steampunk)
+## Exercise 9 - Modernize classic extensions to clean core in SAP Cloud ERP 
 
-- [Exercise 9 - Develop a Fiori App in the SAP BTP ABAP Environment (Steampunk)](#exercise-9---develop-a-fiori-app-in-the-sap-btp-abap-environment-steampunk)
+- [Exercise 9 - Modernize classic extensions to clean core in SAP Cloud ERP](#exercise-9---modernize-classic-extensions-to-clean-core-in-sap-cloud-erp)
   - [You will learn](#you-will-learn)
   - [Lorem Ipsum](#lorem-ipsum)
   - [Summary \& Next Exercise](#summary--next-exercise)
-- [Lorem Ipsum](#lorem-ipsum-1)
 
 <!-- Exercise Description -->
-Lorem Ipsum
+This exercise bla bla bla ....
 
 ### You will learn  
 - Lorem Ipsum.
@@ -31,8 +30,10 @@ Lorem Ipsum
 
 ---
 
-- [You will learn](#you-will-learn)
-- [Summary & Next Exercise](#summary--next-exercise) 
+- [Exercise 9 - Modernize classic extensions to clean core in SAP Cloud ERP](#exercise-9---modernize-classic-extensions-to-clean-core-in-sap-cloud-erp)
+  - [You will learn](#you-will-learn)
+  - [Lorem Ipsum](#lorem-ipsum)
+  - [Summary \& Next Exercise](#summary--next-exercise)
 
 
 ### Summary & Next Exercise
@@ -41,4 +42,5 @@ Lorem Ipsum
 **Summary**
 
 Lorem Ipsum
+
 ---
