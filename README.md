@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-platform-rap640)](https://api.reuse.software/info/github.com/SAP-samples/abap-platform-rap640)
 
-# CCM100 - SAP Custom Code Adaptation for SAP S/4HANA
+# SAP Custom Code Adaptation for SAP S/4HANA
 
 <!-- Please include descriptive title -->
 
