@@ -64,6 +64,10 @@ Before you start, have a look at the technical information you received on the s
     </td>
   </tr>
   <tr>
+    <td>SAP BTP ABAP Environment (Steampunk System)</td>
+    <td>Loremtd>
+  </tr>
+  <tr>
     <td>Exercise Package</td>
     <td>Z_CCM_EX_##</td>
   </tr>
