@@ -75,7 +75,7 @@ Create Project with or without Usage Data:
 ---
 
 <details>
-  <summary>🔵 EXERCISE 4.1 >> Click to expand to see the exercise</summary>
+  <summary>🔵 Exercise 4.1 >> Click to expand to see the exercise</summary>
 
 ---
 1.    Logon to the Central Check System (S/4 HANA 2023 System).Use the provided logon information for system.
@@ -136,7 +136,7 @@ Create Project with or without Usage Data:
 ---
 
 <details>
-  <summary>🔵 EXERCISE 4.2 >> Click to expand to see the exercise</summary>
+  <summary>🔵 Exercise 4.2 >> Click to expand to see the exercise</summary>
 
 ---
 10.    We don’t want to take-over all custom code to S/4HANA. Please change the scope and remove following objects:
@@ -195,7 +195,7 @@ Create Project with or without Usage Data:
 
 #### Custom Code Migration - Analysis
 <details>
-  <summary>🔵 EXERCISE 4.3 >>Click to expand to see the exercise</summary>
+  <summary>🔵 Exercise 4.3 >>Click to expand to see the exercise</summary>
 
 ---
 
@@ -223,7 +223,7 @@ Create Project with or without Usage Data:
 ---
 
 <details>
-  <summary>🔵 EXERCISE 4.4 >> Click to expand to see the exercise</summary>
+  <summary>🔵 Exercise 4.4 >> Click to expand to see the exercise</summary>
 
 ---
 1.    Finally, after all the scoping and analysis tasks lets create a transport request which is taken into the SUM for the S/4HANA conversion.information for system.  
