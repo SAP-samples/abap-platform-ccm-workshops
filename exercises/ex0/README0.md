@@ -65,7 +65,19 @@ Before you start, have a look at the technical information you received on the s
   </tr>
   <tr>
     <td>SAP BTP ABAP Environment (Steampunk System)</td>
-    <td>Loremtd>
+    <td>
+      <table>
+        <tr>
+          <td>System: https://b2b7a815-52da-460f-8ae9-60afa8cf4829.abap-web.eu11.hana.ondemand.com/</td>
+        </tr>
+        </tr>
+          <td>Username: DEVELOPER## (where ## is your group)</td>
+        </tr>
+        </tr>
+          <td>Password: Welcome1</td>
+        </tr>
+      </table>
+    <td>
   </tr>
   <tr>
     <td>Exercise Package</td>
