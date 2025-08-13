@@ -28,7 +28,7 @@ In this exercise, you will use the transaction SYCM to get the overview of the S
 ---
 
 <details>
-  <summary>🔵 Click to expand to see the exercise</summary>
+  <summary>🔵 EXERCISE 2 - Click to expand to see the exercise</summary>
 
 1.    Logon to the Central Check System (S/4 HANA 09 System). Use the provided logon information for system Central Check System.    
 
