@@ -82,7 +82,7 @@ In this exercise you will get familiar with ADT, learning the basic concepts and
 ---
 
 <details>
-  <summary>🔵 Click to expand to see the Exercise</summary>
+  <summary>🔵 Exercise 5 >> Click to expand to see the Exercise</summary>
 
 1.    Now, start Eclipse, your Integrated Development Environment (IDE).
 
