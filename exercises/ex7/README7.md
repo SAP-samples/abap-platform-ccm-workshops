@@ -32,7 +32,7 @@ Transfer Your ABAP Source Code from your on-premise SAP system to your SAP Busin
 ---
 
 <details>
-  <summary>🔵 Click to expand</summary>
+  <summary>🔵 Exercise 7 >> Click to expand</summary>
   
 1. [Please open this tutorial for this exercisse](https://developers.sap.com/tutorials/abap-environment-abapgit.html)
 
