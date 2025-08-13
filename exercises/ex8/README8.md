@@ -23,7 +23,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Click to expand</summary>
+  <summary>🔵 Exercise 8.1 >> Click to expand</summary>
   
 1. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-exercises-codejam/blob/main/README.md)
 
@@ -39,7 +39,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Click to expand</summary>
+  <summary>🔵 Exercise 8.2 >> Click to expand</summary>
   
 2. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-platform-rap100/blob/main/README.md)
 
