@@ -25,6 +25,11 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 > You can use the ADT function **Replace All** (**Ctrl+F**) for the purpose.   
 > If you don't have a group number, choose a 3-digit suffix and use it for all exercises.
 
+
+- [You will learn](#you-will-learn)
+- [Summary & Next Exercise](#summary--next-exercise) 
+
+
 ### ABAP Cloud, SAP Business Technology Platform, ABAP Environment & ABAP RESTful Application Programming Model
 ---
 
@@ -37,8 +42,6 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 
 ---
 
-- [You will learn](#you-will-learn)
-- [Summary & Next Exercise](#summary--next-exercise) 
 
 ### RAP100 - Build Fiori Apps with the ABAP RESTful Application Programming Model (RAP)
 
