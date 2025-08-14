@@ -36,7 +36,7 @@ Before you start, have a look at the technical information you received on the s
           <td>Username: DEVELOPER## (where ## is your group)</td>
         </tr>
         </tr>
-          <td>Password: Welcome1</td>
+          <td>Password: Welcome1!</td>
         </tr>
         </tr>
           <td>RFC destination to the ERP System: ERP</td>
@@ -58,7 +58,7 @@ Before you start, have a look at the technical information you received on the s
           <td>Username: DEVELOPER## (where ## is your group)</td>
         </tr>
         </tr>
-          <td>Password: Welcome1</td>
+          <td>Password: Welcome1!</td>
         </tr>
       </table>
     </td>
@@ -74,7 +74,7 @@ Before you start, have a look at the technical information you received on the s
           <td>Username: DEVELOPER## (where ## is your group)</td>
         </tr>
         </tr>
-          <td>Password: Welcome1</td>
+          <td>Password: Welcome1!</td>
         </tr>
       </table>
     </td>
