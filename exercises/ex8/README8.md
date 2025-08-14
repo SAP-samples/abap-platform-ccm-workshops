@@ -6,7 +6,7 @@
   - [ABAP Cloud, SAP Business Technology Platform, ABAP Environment \& ABAP RESTful Application Programming Model](#abap-cloud-sap-business-technology-platform-abap-environment--abap-restful-application-programming-model)
   - [RAP100 - Build Fiori Apps with the ABAP RESTful Application Programming Model (RAP)](#rap100---build-fiori-apps-with-the-abap-restful-application-programming-model-rap)
   - [RAP110 - Build transactional SAP Fiori elements-based Apps with the ABAP RESTful Application Programming Model (RAP) using Events](#rap110---build-transactional-sap-fiori-elements-based-apps-with-the-abap-restful-application-programming-model-rap-using-events)
-  - [RAP120 - Build SAP Fiori Apps with ABAP Cloud and Joule for developers](#rap120---build-sap-fiori-apps-with-abap-cloud-and-joule-for-developers)
+  - [RAP120 - Build SAP Fiori Apps with ABAP Cloud and Joule for developers (Steampunk only)](#rap120---build-sap-fiori-apps-with-abap-cloud-and-joule-for-developers-steampunk-only)
   - [RAP400 - Writing ABAP Unit Tests for Apps built with the ABAP RESTful Application Programming Model (RAP)](#rap400---writing-abap-unit-tests-for-apps-built-with-the-abap-restful-application-programming-model-rap)
   - [RAP610: Use ABAP Cloud for SAP S/4HANA (Cloud) extension](#rap610-use-abap-cloud-for-sap-s4hana-cloud-extension)
   - [RAP630 - Cloud ERP Extensibility](#rap630---cloud-erp-extensibility)
@@ -65,7 +65,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 
 </details>
 
-### RAP120 - Build SAP Fiori Apps with ABAP Cloud and Joule for developers
+### RAP120 - Build SAP Fiori Apps with ABAP Cloud and Joule for developers (Steampunk only)
 
 ---
 
