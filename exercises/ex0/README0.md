@@ -36,7 +36,7 @@ Before you start, have a look at the technical information you received on the s
           <td>Username: DEVELOPER## (where ## is your group)</td>
         </tr>
         </tr>
-          <td>Password: Welcome1</td>
+          <td>Password: Welcome1!</td>
         </tr>
         </tr>
           <td>RFC destination to the ERP System: ERP</td>
@@ -58,7 +58,7 @@ Before you start, have a look at the technical information you received on the s
           <td>Username: DEVELOPER## (where ## is your group)</td>
         </tr>
         </tr>
-          <td>Password: Welcome1</td>
+          <td>Password: Welcome1!</td>
         </tr>
       </table>
     </td>
@@ -68,13 +68,13 @@ Before you start, have a look at the technical information you received on the s
     <td>
       <table>
         <tr>
-          <td>System: https://b2b7a815-52da-460f-8ae9-60afa8cf4829.abap-web.eu11.hana.ondemand.com</td>
+          <td>System: See Handout</td>
         </tr>
         </tr>
           <td>Username: DEVELOPER## (where ## is your group)</td>
         </tr>
         </tr>
-          <td>Password: Welcome1</td>
+          <td>Password: Welcome1!</td>
         </tr>
       </table>
     </td>
