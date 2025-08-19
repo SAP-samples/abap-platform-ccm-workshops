@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-platform-rap640)](https://api.reuse.software/info/github.com/SAP-samples/abap-platform-rap640)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-platform-ccm-workshops)](https://api.reuse.software/info/github.com/SAP-samples/abap-platform-ccm-workshops)
 
 # SAP Custom Code Adaptation for SAP S/4HANA
 
