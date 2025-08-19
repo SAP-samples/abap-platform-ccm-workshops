@@ -8,6 +8,7 @@
   - [Summary \& Next Exercise](#summary--next-exercise)
     - [Summary](#summary)
     - [Next Exercise](#next-exercise)
+- [License](#license)
 
 <!-- Exercise Description -->
 This exercise introduces the ABAP Development Tools (ADT) known as "ABAP in Eclipse".
@@ -375,3 +376,6 @@ This first exercise seems very tool-driven, and you might ask: Is it mandatory i
 You can continue with the next exercise - **[Exercise 6 - Adapt your Custom Code](../ex6/README6.md)**.
 
 ---
+
+## License
+Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](../../LICENSE) file.

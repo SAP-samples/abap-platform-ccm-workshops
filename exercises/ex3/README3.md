@@ -8,6 +8,7 @@
     - [Summary](#summary)
     - [Next Exercise](#next-exercise)
   - [Notes](#notes)
+- [License](#license)
 
 <!-- Exercise Description -->
 With **ABAP Test Cockpit (ATC)** you can run static code checks to find functional, performance and security bugs in your custom code. ATC supports QM gates, regression tests and exemptions and is a foundation for smooth migration of ABAP custom code to SAP S/4HANA. Find more information on ATC in the SAP Community: https://www.sap.com/community/topic/abap-testing-and-analysis.html 
@@ -173,3 +174,8 @@ You can continue with the next exercise - **[Exercise 4 - The Custom Code Migrat
 
 ### Notes
 - [ATC Remote Analysis >> 2364916 - Recommended SAP Notes for using ATC to perform remote analysis](https://me.sap.com/notes/2364916)
+
+---
+
+## License
+Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](../../LICENSE) file.

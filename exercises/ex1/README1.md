@@ -9,6 +9,7 @@
   - [Summary \& Next Exercise](#summary--next-exercise)
     - [Summary](#summary)
     - [Next Exercise](#next-exercise)
+- [License](#license)
 
 <!-- Exercise Description -->
 ### Introduction
@@ -35,7 +36,7 @@ Follow the hierarchy of program calls: The ABAP trace, which is the result of th
 ---
 
 <details>
-    <summary>🔵 Exercise 1.1 >> Click to expand</summary>
+    <summary>🔵 Click to expand</summary>
 
 1. Logon to the Checked System within your ABAP Development Tools to your SAP ERP 6.0 EhP7 system (A4H).
 
@@ -44,7 +45,7 @@ Follow the hierarchy of program calls: The ABAP trace, which is the result of th
 2. Create a new ABAP project
 3. Logon to the system with the provided User: DEVELOPER## Password: Welcome1 Client: 001
 4. Add your exercise package Z_CCM_EX_## to your favorite packages.
-5. Run any of your programs within your favorite packages e.g.  
+5. Run any of your programs within your favorite packages e.g. Z_CCM_DASHB_TRANSACTIONS_00 >> MB11
     <img src="images//Picture1.png" width="70%">
     <img src="images//Picture2.png" width="70%">
 6. Start transaction: ```/SDF/SCMON (ABAP Call Monitor)```
@@ -67,7 +68,7 @@ Follow the hierarchy of program calls: The ABAP trace, which is the result of th
 ---
 
 <details>
-  <summary>🔵 Exercise 1.2 >> Click to expand</summary>
+  <summary>🔵 Click to expand</summary>
 
 11. Start Transaction SUSG   
     <img src="images//Picture9.png" width="70%">
@@ -112,3 +113,6 @@ Follow the hierarchy of program calls: The ABAP trace, which is the result of th
 Now you can continue with the next exercise - **[Exercise 2 - The Simplification Database](../ex2/README2.md)**.
 
 ---
+
+## License
+Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](../../LICENSE) file.

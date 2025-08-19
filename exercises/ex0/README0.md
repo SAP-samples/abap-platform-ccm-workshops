@@ -95,3 +95,6 @@ Before you start, have a look at the technical information you received on the s
 Now you can continue with the next exercise - **[Exercise 1 - ABAP Call Monitor and Usage Data](../ex1/README1.md)**.
 
 ---
+
+## License
+Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](../../LICENSE) file.
