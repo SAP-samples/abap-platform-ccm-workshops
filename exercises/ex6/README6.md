@@ -45,7 +45,7 @@ This exercise simulates the following situation. After S/4HANA conversion some o
     SAP  S/4HANA 2023 system
     IP: X.X.X.X ( provided in the Handouts )
 
-    <img src="images//Picture2.png" width="50%">
+    <img src="images//Picture3.png" width="50%">
 
 ---
 2.  Logon to the System:
@@ -55,8 +55,6 @@ This exercise simulates the following situation. After S/4HANA conversion some o
         Pwd: Welcome1
 
         Client: 100
-
-    <img src="images//Picture3.png" width="50%">
 
     <img src="images//Picture4.png" width="50%">
 
