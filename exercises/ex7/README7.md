@@ -6,7 +6,6 @@
   - [Migrate existing Code to the SAP BTP ABAP Environment (Steampunk)](#migrate-existing-code-to-the-sap-btp-abap-environment-steampunk)
     - [Use abapGit to Transfer Your On-Premise ABAP Source Code to the Cloud](#use-abapgit-to-transfer-your-on-premise-abap-source-code-to-the-cloud)
   - [Summary \& Next Exercise](#summary--next-exercise)
-- [License](#license)
 
 <!-- Exercise Description -->
 Transfer Your ABAP Source Code from your on-premise SAP system to your SAP Business Technology Platform ABAP Environment instance over a Github Repository using the abapGit report and the ADT plugin for abapGit.
@@ -54,8 +53,3 @@ Now that you've...
 - Clone Git repository into SAP BTP ABAP Environment
 
 You can continue with the next exercise - **[Exercise 8 - Develop a Fiori App in the SAP BTP ABAP Environment (Steampunk)](../ex8/README8.md)**.
-
----
-
-## License
-Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](../../LICENSE) file.

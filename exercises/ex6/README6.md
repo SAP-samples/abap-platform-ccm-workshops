@@ -7,7 +7,6 @@
   - [Summary \& Next Exercise](#summary--next-exercise)
     - [Summary](#summary)
     - [Next Exercise](#next-exercise)
-- [License](#license)
 
 <!-- Exercise Description -->
 After SAP S/4HANA conversion you need to adapt incompatibilities in your custom code to SAP S/4HANA. For this purpose, you need to fix the SAP S/4HANA findings of the corresponding ATC check results from your custom code. Findings of the SAP S/4HANA checks are related to SAP S/4HANA simplifications. Each simplification requires a different approach to solve findings. Therefore, findings of SAP S/4HANA checks refer to the relevant SAP Notes which describe how you can solve them. 
@@ -236,8 +235,3 @@ This exercise simulates the following situation. After S/4HANA conversion some o
 
 #### Next Exercise
 You can continue with the next exercise - **[Exercise 7 - ABAPGIT - Migrate existing Code to the SAP BTP ABAP Environment (Steampunk)](../ex7/README7.md)**.
-
----
-
-## License
-Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](../../LICENSE) file.

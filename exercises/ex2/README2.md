@@ -6,7 +6,6 @@
   - [Summary \& Next Exercise](#summary--next-exercise)
     - [Summary](#summary)
     - [Next Exercise](#next-exercise)
-- [License](#license)
 
 <!-- Exercise Description -->
 In this exercise, you will use the transaction SYCM to get the overview of the SAP Business Suite source code affected by the simplifications in the SAP S/4HANA. You will search in the Simplification Database for certain objects, navigate to the affected objects and read the SAP Notes to understand the change in SAP S/4HANA and receive more detailed information on functional adaptations to SAP S/4HANA. You will do this exercise in the ATC central check system, where the Simplification Database is already available.
@@ -98,8 +97,3 @@ In this exercise, you will use the transaction SYCM to get the overview of the S
 
 #### Next Exercise
 You can continue with the next exercise - **[Exercise 3 - ABAP Test Cockpit (ATC) - Check your Custom Code using Remote ATC](../ex3/README3.md)**.
-
----
-
-## License
-Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](../../LICENSE) file.

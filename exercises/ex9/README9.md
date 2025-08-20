@@ -5,14 +5,12 @@
   - [You will learn](#you-will-learn)
   - [Lorem Ipsum](#lorem-ipsum)
   - [Summary \& Next Exercise](#summary--next-exercise)
-- [License](#license)
 
 <!-- Exercise Description -->
-This exercise bla bla bla ....
+This exercise  ....
 
 ### You will learn  
 - Lorem Ipsum.
-
 
 > **Reminder:**   
 > Don't forget to replace all occurences of the placeholder **`###`** with your assigned group number in the exercise steps below.  
@@ -35,16 +33,9 @@ This exercise bla bla bla ....
   - [You will learn](#you-will-learn)
   - [Lorem Ipsum](#lorem-ipsum)
   - [Summary \& Next Exercise](#summary--next-exercise)
-- [License](#license)
 
 
 ### Summary & Next Exercise
 [^Top of page](#)
 
 **Summary**
-
-
----
-
-## License
-Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](../../LICENSE) file.

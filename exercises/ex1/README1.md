@@ -9,7 +9,6 @@
   - [Summary \& Next Exercise](#summary--next-exercise)
     - [Summary](#summary)
     - [Next Exercise](#next-exercise)
-- [License](#license)
 
 <!-- Exercise Description -->
 ### Introduction
@@ -111,8 +110,3 @@ Follow the hierarchy of program calls: The ABAP trace, which is the result of th
 
 #### Next Exercise
 Now you can continue with the next exercise - **[Exercise 2 - The Simplification Database](../ex2/README2.md)**.
-
----
-
-## License
-Copyright (c) 2025 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](../../LICENSE) file.

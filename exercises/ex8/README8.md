@@ -128,5 +128,3 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 **Summary**
 
 This exercise gave you an introduction into the core ABAP Cloud development concepts, starting with basic class creation and database access, then progressing to HTTP service integration and consumption. It culminates in building modern Fiori applications using the ABAP RESTful Application Programming Model (RAP) and OData service consumption.
-
----
