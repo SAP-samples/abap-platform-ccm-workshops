@@ -34,7 +34,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Exercise 8.1 >> Click to expand</summary>
+  <summary>🔵 Exercise 8.1 >> Click to reveal the exercise</summary>
   
 1. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-exercises-codejam/blob/main/README.md)
 
@@ -48,7 +48,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Exercise 8.2 >> Click to expand</summary>
+  <summary>🔵 Exercise 8.2 >> Click to reveal the exercise</summary>
   
 2. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-platform-rap100/blob/main/README.md)
 
@@ -59,7 +59,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Exercise 8.3 >> Click to expand</summary>
+  <summary>🔵 Exercise 8.3 >> Click to reveal the exercise</summary>
   
 3. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap1xx/rap110/README.md)
 
@@ -70,7 +70,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Exercise 8.4 >> Click to expand</summary>
+  <summary>🔵 Exercise 8.4 >> Click to reveal the exercise</summary>
   
 4. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-platform-rap120/blob/main/README.md)
 
@@ -81,7 +81,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Exercise 8.5 >> Click to expand</summary>
+  <summary>🔵 Exercise 8.5 >> Click to reveal the exercise</summary>
   
 5. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap4xx/rap400/README.md)
 
@@ -92,7 +92,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Exercise 8.6 >> Click to expand</summary>
+  <summary>🔵 Exercise 8.6 >> Click to reveal the exercise</summary>
   
 6. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-platform-rap-workshops/blob/main/rap6xx/rap610/README.md)
 
@@ -103,7 +103,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Exercise 8.7 >> Click to expand</summary>
+  <summary>🔵 Exercise 8.7 >> Click to reveal the exercise</summary>
   
 7. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-platform-rap630/blob/main/README.md)
 
@@ -114,7 +114,7 @@ Build a list report app with the ABAP RESTful Application Programming Model (RAP
 ---
 
 <details>
-  <summary>🔵 Exercise 8.8 >> Click to expand</summary>
+  <summary>🔵 Exercise 8.8 >> Click to reveal the exercise</summary>
   
 8. [Please open this tutorial for this exercisse](https://github.com/SAP-samples/abap-platform-rap640/blob/main/README.md)
 

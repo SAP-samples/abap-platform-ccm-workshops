@@ -38,7 +38,7 @@ In this exercise, you get an overview of the ATC transaction and learn its basic
 ---
 
 <details>
-  <summary>🔵 Exercise 3 >> Click to expand to see the exercise</summary>
+  <summary>🔵 Exercise 3 >> Click to reveal the exercise</summary>
 
 1.    Logon to the **Central Check System (S/4 HANA 2023 System)**.
 

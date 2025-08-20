@@ -223,7 +223,7 @@ Create Project with or without Usage Data:
 ---
 
 <details>
-  <summary>🔵 Exercise 4.4 >> Click to expand to see the exercise</summary>
+  <summary>🔵 Exercise 4.4 >> Click to reveal the exercise</summary>
 
 ---
 1.    Finally, after all the scoping and analysis tasks lets create a transport request which is taken into the SUM for the S/4HANA conversion.information for system.  

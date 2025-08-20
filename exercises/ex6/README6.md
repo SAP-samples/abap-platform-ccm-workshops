@@ -37,7 +37,7 @@ This exercise simulates the following situation. After S/4HANA conversion some o
 ---
 
 <details>
-  <summary>🔵 Exercise 6 >> Click to expand to see the Exercise</summary>
+  <summary>🔵 Exercise 6 >> Click to reveal the exercise</summary>
 
 ---
 1.  Start your ABAP Development Tools with not yet started and create a new ABAP Project connecting to the**

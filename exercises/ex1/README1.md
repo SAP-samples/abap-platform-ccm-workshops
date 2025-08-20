@@ -35,7 +35,7 @@ Follow the hierarchy of program calls: The ABAP trace, which is the result of th
 ---
 
 <details>
-    <summary>🔵 Click to expand</summary>
+    <summary>🔵 Exercise 1 >> Click to reveal the exercise</summary>
 
 1. Logon to the Checked System within your ABAP Development Tools to your SAP ERP 6.0 EhP7 system (A4H).
 
@@ -67,7 +67,7 @@ Follow the hierarchy of program calls: The ABAP trace, which is the result of th
 ---
 
 <details>
-  <summary>🔵 Click to expand</summary>
+  <summary>🔵 Exercise 1 >> Click to reveal the exercise</summary>
 
 11. Start Transaction SUSG   
     <img src="images//Picture9.png" width="70%">
